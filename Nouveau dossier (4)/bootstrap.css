@@ -1,0 +1,86 @@
+
+
+.bg-light {
+    background-color: white!important;
+}
+.image{
+    height: 430px;
+    background-image: url(salah.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    
+  
+}
+
+.first .now{
+    margin-left: 41%;
+}
+.btn{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+
+}
+.link{
+    margin-top: 20px;
+}
+.felali{
+    background-image: url(xbox.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.last{
+    background-image: url(carbon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    
+}
+
+.last p{
+    color:white;
+    
+    
+}
+ 
+
+.last h2{
+    color: white;
+}
+.seconde{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+.last .third{
+    background-color: white;
+    color: black;
+}
+.felali p{
+    
+    font-size: 19px;
+}
+.call{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 6px;
+}
+.push h2{
+    margin-bottom: 7px;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+}
+
